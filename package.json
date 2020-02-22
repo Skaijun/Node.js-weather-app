@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "main": "weatherapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaijun/Node.js-weather-app.git"
+  },
+  "author": "Skajiun D.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaijun/Node.js-weather-app/issues"
+  },
+  "homepage": "https://github.com/Skaijun/Node.js-weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
